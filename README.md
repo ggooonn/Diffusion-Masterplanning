@@ -1,4 +1,4 @@
-# Diffusion-Masterplanning 🧬
+# Diffusion-Masterplanning 
 
 ![Generative Grid](header_image.png)
 
